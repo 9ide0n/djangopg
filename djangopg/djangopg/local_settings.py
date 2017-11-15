@@ -16,3 +16,7 @@ DATABASES = {
         "PORT": "5432",
     }
 }
+
+INSTALLED_APPS += [
+    'polls.apps.PollsConfig',
+]

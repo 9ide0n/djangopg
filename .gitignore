@@ -1,0 +1,9 @@
+.vagrant/*
+.virtualenv/*
+*__pycache__*
+*local_settings*
+*.pyc
+static
+djangopg/db.sqlite3
+ubuntu-xenial-16.04-cloudimg-console.log
+*migrations*

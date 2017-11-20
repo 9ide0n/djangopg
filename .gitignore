@@ -1,4 +1,6 @@
 .vagrant/*
+.ropeproject
+.idea
 .virtualenv/*
 *__pycache__*
 *local_settings*
